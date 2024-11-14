@@ -104,7 +104,7 @@ const Home = () => {
   return (
     <>
       <div className="text-center mt-30">
-        <h1 className="text-4xl font-bold">Welcome to Popular Meal </h1>
+        <h1 className="text-4xl font-bold">Welcome to Popular Indian  Meal </h1>
         {/* <p className="mt-4">Search  your favorite meals</p> */}
       </div>
       
